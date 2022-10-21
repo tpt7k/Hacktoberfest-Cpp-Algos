@@ -17,3 +17,13 @@ Contribute to this repository to get your hacktoberfest swags.
 
 ``` selection sort```
 
+``` cyclic sort```
+
+``` binary search```
+
+``` heap sort```
+
+``` large factorial```
+
+``` lcm```
+
